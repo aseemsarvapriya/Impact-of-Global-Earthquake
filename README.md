@@ -1,0 +1,2 @@
+# Impact-of-Global-Earthquake
+Visualising earthquake data is crucial in earthquake research and hazard assessment. Scientists use visualisations to gain a better understanding of seismic wave behaviour and earthquake dynamics. Additionally, earthquake data provides a rich and complex dataset that can be challenging to analyse and visualise, making it a good subject for a Tableau project that can showcase the capabilities of the software.
